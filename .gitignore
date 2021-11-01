@@ -1,2 +1,4 @@
 *.png
-receipts/
+!.png
+receipts
+
