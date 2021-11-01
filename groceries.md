@@ -1,0 +1,3 @@
+- Avocado : £1:00 / unit
+- Lime: £0.50 / unit
+- Salt: £3:00/ kg
